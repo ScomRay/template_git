@@ -98,7 +98,7 @@ h2 {
 }
 
 .hero {
-  height: 300px;
+  height: 450px;
   /* background-image: url('../images/hero.jpg'); */
   background-color: #1b2127;
   /* background-size: 500px 300px; */
@@ -112,6 +112,7 @@ h2 {
 
 .hero-image{
   object-fit: cover;
+  transform: rotate(90deg);
 }
 
 
@@ -412,7 +413,6 @@ figure {
     top: 0;
     bottom: 0;
     width: 100%;
-    transform: rotate(90deg);
   }
   h1 {
     font-size: 2em;
