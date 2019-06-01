@@ -412,6 +412,7 @@ figure {
     top: 0;
     bottom: 0;
     width: 100%;
+    transform: rotate(90deg);
   }
   h1 {
     font-size: 2em;
